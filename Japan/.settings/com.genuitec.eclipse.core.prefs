@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/jquery.min.js,WebRoot/js/stu-script.js,WebRoot/js/jquery.min_student.js,WebRoot/js/modernizr.custom.js
+validator.Unchecked=

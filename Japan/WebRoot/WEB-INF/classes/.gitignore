@@ -1,0 +1,10 @@
+/applicationContext.xml
+/bean
+/controller
+/dao
+/log4j.xml
+/mapper
+/mybatis-config.xml
+/mybatis-db.properties
+/service
+/test
